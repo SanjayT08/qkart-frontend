@@ -8,7 +8,7 @@ import Thanks from "./components/Thanks";
 
 
 export const config = {
-  endpoint: `https://qkart-frontend-crio-app.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-frontend-jjln.onrender.com/api/v1`,
 };
 
 function App() {
